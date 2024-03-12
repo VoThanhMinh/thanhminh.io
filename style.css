@@ -1,0 +1,17 @@
+h1 {
+    color: blue;
+    font-size: 24px;
+  }
+  
+  p {
+    color: green;
+  }
+  
+  img {
+    width: 200px;
+    border: 1px solid black;
+  }
+  
+  a {
+    text-decoration: none;
+  }
